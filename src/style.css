@@ -1,0 +1,26 @@
+body {
+  background-color: #23252c;
+}
+
+/*Header Section*/
+
+.head-pic {
+  width: 317px;
+  height: 317px;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.info {
+  text-align: center;
+  background-color: #1a1b21;
+  width: 317px;
+  height: 399px;
+}
+
+.head-name {
+  color: #ffffff;
+}
+
+.head-title {
+  color: #f3bf99;
+}
