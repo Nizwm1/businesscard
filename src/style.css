@@ -1,26 +1,165 @@
 body {
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
   background-color: #23252c;
+}
+
+.container {
+  margin: 3% auto;
+  width: 317px;
+  background-color: #1a1b21;
 }
 
 /*Header Section*/
 
 .head-pic {
   width: 317px;
-  height: 317px;
+  height: 318px;
+  background: center no-repeat;
   border-radius: 10px 10px 0px 0px;
 }
 
-.info {
-  text-align: center;
-  background-color: #1a1b21;
-  width: 317px;
-  height: 399px;
-}
-
 .head-name {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
   color: #ffffff;
 }
 
 .head-title {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.8px;
+  line-height: 15px;
   color: #f3bf99;
+}
+
+.head-email {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+  color: #f5f5f5;
+}
+
+.social-icon {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 9px 13px 9px 11px;
+  margin-bottom: 20px;
+}
+
+.email-icon {
+  width: 115px;
+  height: 38px;
+  left: 151px;
+  top: 468px;
+  background: #ffffff;
+  border: 1px solid #d1d5db;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+  margin: 0 8px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.linkedin-icon {
+  width: 115px;
+  height: 42px;
+  left: 283px;
+  top: 468px;
+  background: #5093e2;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+  margin: 0 8px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.icon-email {
+  width: 20px;
+  height: 20px;
+  left: 24.5px;
+  top: 9px;
+
+  margin: 0px 8px;
+}
+
+.icon-linkedin {
+  width: 24px;
+  height: 24px;
+  left: 12px;
+  top: 9px;
+  margin: 0px 8px;
+}
+
+/*About*/
+
+.about-title {
+  width: 95px;
+  height: 21px;
+  left: 152px;
+  top: 535px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 150%;
+  color: #f5f5f5;
+}
+
+.about-section {
+  width: 250px;
+  height: 61px;
+  left: 152px;
+  top: 561px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 150%;
+  color: #dcdcdc;
+  text-align: justify;
+  margin-left: 25px;
+}
+
+.interest-title {
+  margin-top: 50px;
+  width: 110px;
+  height: 21px;
+  left: 152px;
+  top: 535px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 150%;
+  color: #f5f5f5;
+}
+
+.interest-section {
+  width: 250px;
+  height: 61px;
+  left: 152px;
+  top: 561px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 150%;
+  color: #dcdcdc;
+  text-align: justify;
+  margin-left: 25px;
+}
+
+/* Footer section*/
+footer {
+  background: #1a1b21;
 }
