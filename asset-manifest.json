@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/businesscard/static/css/main.1a208389.css",
+    "main.js": "/businesscard/static/js/main.c32610ce.js",
+    "static/media/profile.webp": "/businesscard/static/media/profile.050830a4a2bd647d9f1b.webp",
+    "static/media/instagram.svg": "/businesscard/static/media/instagram.185b47b0fc6859080370e6d7fee4495a.svg",
+    "static/media/twitter-icon.svg": "/businesscard/static/media/twitter-icon.df1ebb780c2d448856368d5fc5de8824.svg",
+    "static/media/linkedin-icon.svg": "/businesscard/static/media/linkedin-icon.2350a9bf3c9b140985fa189546aea6e6.svg",
+    "static/media/facebook-icon.svg": "/businesscard/static/media/facebook-icon.145b70d3ebc4c999f7ddfbb7449fa5f9.svg",
+    "static/media/github.svg": "/businesscard/static/media/github.fc0ffe042a9582d2a394e1c609baa9f2.svg",
+    "static/media/email-icon.svg": "/businesscard/static/media/email-icon.09f59b228b67847fa9c917396a218b25.svg",
+    "index.html": "/businesscard/index.html",
+    "main.1a208389.css.map": "/businesscard/static/css/main.1a208389.css.map",
+    "main.c32610ce.js.map": "/businesscard/static/js/main.c32610ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a208389.css",
+    "static/js/main.c32610ce.js"
+  ]
+}
